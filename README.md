@@ -1,4 +1,4 @@
 ## Superintelligence
-Biological refutation of computational superintelligence.
+Showing why computational systems cannot become superintelligent.
 
 https://truthandfreedom.life/superintelligence.html
