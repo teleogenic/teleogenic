@@ -1,4 +1,4 @@
 ## Nature Against Superintelligence
-Showing why computational systems cannot become superintelligent.
+Why Computational Intelligence Is Not Possible.
 
 https://truthandfreedom.life/superintelligence.html
